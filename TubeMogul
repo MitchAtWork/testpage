@@ -1,0 +1,20 @@
+<html>
+  <body>
+	  <h1>Forensiq Test Page - TubeMogul</h1>
+	  <p>Invisible Tags are located on the page here.</p>
+	  <p>Notes: 
+	  <ul>
+		  <li>rt = value determined by is this: impression / click / conversion</li>
+		  <li>fmt = is this video or display</li>
+	  </ul></p>
+
+<div class="test2Tubemogul">
+	<!-- placeholder for a different test -->
+	<Impression id=”fqtag”>
+      <![CDATA[http://fqtag.com/pixel.cgi?s=mla1234567890qwerty&p=${TM_SITE_ID_NUM}&a=${TM_SITE_DOMAIN_URLENC}&cmp=${TM_CAMPAIGN_ID_NUM}&org=h7qeM9a48dvLOY8iduIu&rt=clickImg&sl=1&fmt=video&rd=${TM_CLICK_URL_URLENC}&c1=${TM_USER_ID}&c2=${TM_VIDEO_DURATION}&ad=${TM_AD_ID_NUM}]]>
+  </Impression>  
+</div>
+
+	
+  </body>
+</html>
