@@ -5,6 +5,7 @@ To Test a page use URLs that begin with this, and then have the page name on the
 
 https://mitchatwork.github.io/testpage/
 
-As in:
+Like these:
 
-https://mitchatwork.github.io/testpage/BeesWas.html
+- https://mitchatwork.github.io/testpage/BeesWax.html
+- https://mitchatwork.github.io/testpage/TubeMogul.html
